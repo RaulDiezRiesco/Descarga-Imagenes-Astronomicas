@@ -3,7 +3,6 @@
 
 ---
 
-```md
 # 🌌 Descarga de Imágenes Astronómicas  
 
 ### 📷 Proyecto para la obtención de imágenes astronómicas a partir de coordenadas celestes  
@@ -22,13 +21,13 @@ Utiliza el servicio en línea del **Sloan Digital Sky Survey (SDSS)** para obten
 ---
 
 ## 📂 **Estructura del Proyecto**
-```
+
 📁 DESCARGA IMÁGENES ASTRONÓMICAS  
 │── 📂 001.DATOS/                # Archivos de coordenadas y datos adicionales  
 │── 📂 001.IMAGENES DESCARGADAS/  # Carpeta donde se almacenan las imágenes descargadas  
 │── 📝 Trabajo Imágenes.ipynb     # Notebook principal con la implementación del código  
 │── 📄 README.md                  # Este archivo con la documentación  
-```
+
 
 ---
 
